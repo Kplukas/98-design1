@@ -37,10 +37,11 @@
     font-weight: bold;
     transition-duration: 0.4s;
 }
-/*MAIN*/
+/*MAIN*/ /*POSTER*/
 .poster {
     background-color: pink;
     width: 1200px;
+    height: 400px;
     margin-top: 20px;
     text-transform: uppercase;
 }
@@ -74,3 +75,40 @@
 .right-column {
     width: 450px;
 }
+/*MAIN*/ /*PRODUCTS*/
+.products {
+    margin-top: 20px;
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+}
+.titles {
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.under-title {
+    text-align: center;
+    margin-top: 0px;
+}
+.sellection {
+width: 300px;
+padding: 20px 10px ;
+margin-left: 60px;
+display: inline-block;
+}
+.sellection:hover {
+    transition-duration: 0.4s;
+    background-color: bisque;
+    border-radius: 5px;
+}
+.productimg {
+    width: 300px;
+}
+.product-name {
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+}
+/*MAIN*/ /*MORE*/
