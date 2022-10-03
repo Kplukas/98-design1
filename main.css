@@ -132,7 +132,6 @@ display: inline-block;
     text-align: center;
 }
 .extra {
-    width: 768px;
     margin-left: 216px;
 }
 .emoji {
@@ -140,7 +139,32 @@ display: inline-block;
     font-size: 35px;
     margin-top: 0px;
     margin-bottom: 5px;
+    width: 246px;
 }
 .column {
     width: 246px;
+    height: 250px;
+    display: inline-block;
+    margin-top: 0px;
+}
+.option {
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+    width: 246px;
+}
+.under-option {
+    text-align: center;
+    margin-top: 0px;
+    width: 246px;
+}
+.space {
+    width: 14px;
+    height: 200px;
+    display: inline-block;
+}
+.line {
+    stroke: black; 
+    stroke-width: 2px;
 }
