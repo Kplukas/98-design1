@@ -168,3 +168,18 @@ display: inline-block;
     stroke: black; 
     stroke-width: 2px;
 }
+/*FOOTER*/
+.footer {
+    width: 1200px;
+    background-color: rgb(241, 211, 216);
+}
+.columnf {
+    width: 246px;
+    height: 250px;
+    display: inline-block;
+    margin-top: 0px;
+}
+.titlef {
+    text-align: left;
+    font-size: 10px;
+}
