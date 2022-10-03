@@ -1,0 +1,34 @@
+.container {
+    width: 1200px;
+    margin-left: calc(50% - 600px);
+    background-color: aqua;
+}
+/*HEADER*/
+.left-menu {
+    width: 500px;
+    float: left;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.logo {
+    width: 100px;
+    margin-left: 25px;
+    display: inline;
+}
+.right-menu {
+    width: 500px;
+    float: right;
+    text-align: center;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+.menu-link {
+    width: 100px;
+    display: inline;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    margin: 10px;
+}
